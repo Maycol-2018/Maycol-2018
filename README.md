@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-![Descripción del GIF](https://media1.tenor.com/m/kjXMU4dl8lAAAAAC/hello-world.gif)
+<p align="center">
+  <img src="https://media1.tenor.com/m/kjXMU4dl8lAAAAAC/hello-world.gif" alt="Typing GIF">
+</p>
 
 
 
