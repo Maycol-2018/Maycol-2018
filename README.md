@@ -46,7 +46,7 @@
 <br><br><br><br><br><br>
 <a href="https://info.flagcounter.com/Ft49"><img src="https://s11.flagcounter.com/count2/Ft49/bg_000000/txt_FFFFFF/border_000000/columns_6/maxflags_20/viewers_0/labels_1/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
-<br><br><br><br><br><br>
+<br>
 <h1>Contacts</h1>
 
 <a href="https://www.linkedin.com" target="_blank">
