@@ -34,7 +34,7 @@
 ## <img src="https://media1.giphy.com/media/wUdQwjo1Y7jWhTn4BM/200w.webp?cid=ecf05e47gbgkk5pyy2rv5s5oz7n75edw0itnysdcy1ztio4d&ep=v1_gifs_related&rid=200w.webp&ct=s" width ="25"><b> My GitHub Stats</b>
 <br>
 
-[![Maycol's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Maycol-2018&bg_color=0d1117&color=ffffff&line=00F707&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Maycol's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Maycol-2018&bg_color=0d1117&color=ffffff&line=#22B0BA&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 <br>
